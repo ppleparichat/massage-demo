@@ -1,0 +1,50 @@
+
+body {
+            /* background-image: url('img/greenbg.jpg')!important; */
+            background-color: #64723a;
+            background-repeat: no-repeat!important;
+            background-attachment: fixed!important;
+            background-size: cover!important;
+    /* background-image: url("bg.jpg")!important; */
+ /* background-color: #64723a!important; */
+}
+
+
+.nav1 {
+    background-color: #17270d!important ;
+}
+
+.contact-color {
+    color: black !important;
+    text-align: center !important;
+}
+
+
+.behandlingar-color {
+    color: whitesmoke !important;
+    text-align: center !important;
+    background-color: #433007!important ;
+    margin: 5% !important;
+}
+
+
+.textcolor {
+    color: aliceblue !important;
+}
+
+
+
+.address-list-item{
+    list-style-type: none;
+    padding: 0; 
+    margin: 0;
+}
+
+.aftercover{
+        margin: 10% !important;
+        text-align: center !important;
+}
+
+.address-img{
+    width: 100%;
+}
